@@ -25,7 +25,7 @@ class SampleItemDetailsView extends StatelessWidget {
   }
 
   static const routeName = '/sample_item';
-  static const documentPath = 'assets/pdfs/sensors-23-03984-with-cover.pdf';
+  static const documentPath = 'assets/pdfs/HYG-157.pdf';
 
   @override
   Widget build(BuildContext context) {

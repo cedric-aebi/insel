@@ -1,0 +1,4725 @@
+{
+  "version": {
+    "json_export": "203",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1099.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "95 B8 D4 8B 7D BA B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "45 31 20 45 46 20 44 30 20 38 42 20 37 44 20 42 41 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "de-CH",
+    "page_count": 4,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        223.79800415039062, 706.8379974365234, 401.0380554199219,
+        724.0220031738281
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 388,
+      "Page": 0,
+      "Path": "//Document/Sect/P",
+      "Text": "Standardhygienemassnahmen ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        67.05599975585938, 80.5679931640625, 563.8023986816406,
+        695.1820068359375
+      ],
+      "ClipBounds": [
+        111.80000305175781, 103.03305053710938, 495.90399169921875,
+        694.238037109375
+      ],
+      "ObjectID": 386,
+      "Page": 0,
+      "Path": "//Document/Sect/Table",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 112.92999999999665, 155.99399999999878,
+          695.1459999999788
+        ],
+        "NumCol": 3,
+        "NumRow": 9,
+        "Placement": "Block",
+        "SpaceAfter": 10.5
+      },
+      "filePaths": ["tables/fileoutpart0.xlsx", "tables/fileoutpart1.png"]
+    },
+    {
+      "Bounds": [68.0, 683.7259979248047, 137.7696075439453, 695.1820068359375],
+      "ObjectID": 664,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          62.39749999999913, 680.9869999999937, 155.99399999999878,
+          694.545999999973
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 13.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 93.625
+      }
+    },
+    {
+      "Bounds": [68.0, 683.7259979248047, 137.7696075439453, 695.1820068359375],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 673,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TH/P",
+      "Text": "Grundlagen siehe ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 684.1419982910156, 316.1280517578125,
+        695.0540008544922
+      ],
+      "ClipBounds": [
+        205.43199157714844, 685.0390625, 313.947998046875, 694.238037109375
+      ],
+      "ObjectID": 665,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TD",
+      "attributes": {
+        "BBox": [
+          155.99399999999878, 680.7469999999739, 567.3369999999995,
+          695.1459999999788
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.625, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 14.375,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 411.375
+      }
+    },
+    {
+      "Bounds": [
+        205.43199157714844, 684.1419982910156, 316.1280517578125,
+        695.0540008544922
+      ],
+      "ClipBounds": [
+        205.43199157714844, 685.0390625, 313.947998046875, 694.238037109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 129,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TD/P/StyleSpan/Reference",
+      "Text": "Standardhygienemassnahmen ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 684.1419982910156, 316.1280517578125,
+        695.0540008544922
+      ],
+      "ClipBounds": [
+        205.43199157714844, 685.0390625, 313.947998046875, 694.238037109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 666,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TD/P/StyleSpan",
+      "Text": "Grundlagen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [68.0, 670.2259979248047, 147.543212890625, 681.6820068359375],
+      "ObjectID": 631,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 458.39599999999336, 155.99399999999878,
+          680.9869999999937
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 222.625,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 93.125
+      }
+    },
+    {
+      "Bounds": [68.0, 670.2259979248047, 147.543212890625, 681.6820068359375],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 659,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH/P",
+      "Text": "H\u00e4ndehygiene wann ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 462.25303649902344, 492.15000915527344,
+        681.5540008544922
+      ],
+      "ClipBounds": [
+        203.65499877929688, 671.5390625, 299.2850036621094, 680.738037109375
+      ],
+      "ObjectID": 632,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD",
+      "attributes": {
+        "BBox": [
+          155.99399999999878, 458.1559999999881, 567.3369999999995,
+          681.3469999999797
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 223.25,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 411.375
+      }
+    },
+    {
+      "Bounds": [
+        234.75, 462.25303649902344, 492.15000915527344, 654.4320068359375
+      ],
+      "ObjectID": 633,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/Figure",
+      "attributes": {
+        "BBox": [
+          234.9499999999971, 462.3549999999959, 491.9799999999959,
+          654.4679999999935
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 10.5
+      },
+      "filePaths": ["figures/fileoutpart2.png"]
+    },
+    {
+      "Bounds": [
+        203.65499877929688, 670.6419982910156, 301.48704528808594,
+        681.5540008544922
+      ],
+      "ClipBounds": [
+        203.65499877929688, 671.5390625, 299.2850036621094, 680.738037109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 130,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P/StyleSpan/Reference",
+      "Text": "Grundlagen H\u00e4ndehygiene ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 670.6419982910156, 301.48704528808594,
+        681.5540008544922
+      ],
+      "ClipBounds": [
+        203.65499877929688, 671.5390625, 299.2850036621094, 680.738037109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 634,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P",
+      "Text": "Siehe auch ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        239.35000610351562, 578.4799957275391, 345.91094970703125,
+        588.0279998779297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 635,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[2]",
+      "Text": "VOR und NACH Patientenkontakt ",
+      "TextSize": 7.0,
+      "attributes": { "LineHeight": 8.375 }
+    },
+    {
+      "Bounds": [
+        477.94000244140625, 573.9799957275391, 480.2709503173828,
+        583.5279998779297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 650,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[3]/Sub/HyphenSpan",
+      "Text": "-",
+      "TextSize": 7.0
+    },
+    {
+      "Bounds": [
+        378.3500061035156, 573.9799957275391, 480.2709503173828,
+        583.5279998779297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 646,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[3]/Sub",
+      "Text": "NACH Kontakt mit K\u00f6rperfl\u00fcssig",
+      "TextSize": 7.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        378.3500061035156, 564.7239990234375, 440.2069396972656,
+        574.2720031738281
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 647,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[3]/Sub[2]",
+      "Text": "keit / Handschuhen ",
+      "TextSize": 7.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        241.63699340820312, 478.86900329589844, 333.82701110839844,
+        488.41700744628906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 641,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[4]/Sub",
+      "Text": "VOR invasiver / aseptischer / ",
+      "TextSize": 7.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        241.63699340820312, 469.6130065917969, 303.1082458496094,
+        479.16099548339844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 642,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[4]/Sub[2]",
+      "Text": "sauberer Handlung ",
+      "TextSize": 7.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        372.2980041503906, 471.8350067138672, 458.6429901123047,
+        481.38299560546875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 638,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TD/P[5]",
+      "Text": "NACH Patientenumgebung ",
+      "TextSize": 7.0,
+      "attributes": { "LineHeight": 8.375 }
+    },
+    {
+      "Bounds": [68.0, 447.58799743652344, 127.9599609375, 459.04400634765625],
+      "ObjectID": 590,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TH",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 377.87899999998626, 155.99399999999878,
+          458.39599999999336
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 80.5,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 93.125
+      }
+    },
+    {
+      "Bounds": [68.0, 447.58799743652344, 127.9599609375, 459.04400634765625],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 626,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TH/P",
+      "Text": "Arbeitshygiene ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 384.53599548339844, 556.3927917480469,
+        458.91600036621094
+      ],
+      "ClipBounds": [
+        203.65499877929688, 448.9010314941406, 300.6090087890625,
+        458.10003662109375
+      ],
+      "ObjectID": 591,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          155.99399999999878, 377.6389999999956, 567.3369999999995,
+          458.75599999999395
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 81.125,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 411.375
+      }
+    },
+    {
+      "Bounds": [
+        203.65499877929688, 448.0039978027344, 302.79905700683594,
+        458.91600036621094
+      ],
+      "ClipBounds": [
+        203.65499877929688, 448.9010314941406, 300.6090087890625,
+        458.10003662109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 131,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/P/StyleSpan/Reference",
+      "Text": "Grundlagen Arbeitshygiene ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 448.0039978027344, 302.79905700683594,
+        458.91600036621094
+      ],
+      "ClipBounds": [
+        203.65499877929688, 448.9010314941406, 300.6090087890625,
+        458.10003662109375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 592,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/P",
+      "Text": "Siehe auch ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 438.33799743652344, 165.05599975585938,
+        447.2100067138672
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 619,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        171.3000030517578, 437.4259948730469, 497.69679260253906,
+        448.33799743652344
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 618,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI/LBody",
+      "Text": "Fingern\u00e4gel kurz schneiden, kein Nagellack, keine Gelauflagen oder k\u00fcnstliche Fingern\u00e4gel ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 427.75999450683594, 165.05599975585938,
+        436.6320037841797
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 615,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[2]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        171.3000030517578, 426.84800720214844, 556.3927917480469,
+        437.75999450683594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 614,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[2]/LBody",
+      "Text": "Fingerringe inkl. Eheringe, Armschmuck, Armbanduhren und lange Halsketten d\u00fcrfen nicht getragen werden ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 417.1820068359375, 165.05599975585938,
+        426.0540008544922
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 611,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[3]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        171.3000030517578, 416.27000427246094, 420.7720489501953,
+        427.1820068359375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 610,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[3]/LBody",
+      "Text": "Nach vorne fallendes, halblanges oder langes Haar zusammenbinden ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 406.60400390625, 165.05599975585938,
+        415.4759979248047
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 607,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[4]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        171.3000030517578, 395.11399841308594, 555.0689392089844,
+        416.60400390625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 605,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[4]/LBody",
+      "Text": "Die Unterarme m\u00fcssen frei sein bei pflegerischen und therapeutischen Verrichtungen, aseptischen Handlungen und Aufbereitung und Entsorgung von Materialien ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 385.447998046875, 165.05599975585938,
+        394.32000732421875
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 602,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[5]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        171.3000030517578, 384.53599548339844, 438.5224151611328,
+        395.447998046875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 601,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/L/LI[5]/LBody",
+      "Text": "Wechsel der Bereichskleidung: t\u00e4glich, bei optischer Verschmutzung sofort ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        68.0, 356.46400451660156, 146.5999755859375, 378.4980010986328
+      ],
+      "ObjectID": 566,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TH",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 338.75999999999476, 155.99399999999878,
+          377.87899999998626
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 39.125,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 93.125
+      }
+    },
+    {
+      "Bounds": [
+        68.0, 367.04200744628906, 109.30235290527344, 378.4980010986328
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 583,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TH/P/Sub",
+      "Text": "Stich- und ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        68.0, 356.46400451660156, 146.5999755859375, 367.9199981689453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 584,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TH/P/Sub[2]",
+      "Text": "Schnittverletzungen ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 345.88600158691406, 437.6420593261719,
+        378.3699951171875
+      ],
+      "ClipBounds": [
+        203.65499877929688, 368.35504150390625, 356.19598388671875,
+        377.5540466308594
+      ],
+      "ObjectID": 567,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          155.99399999999878, 338.52099999999336, 567.3369999999995,
+          378.23899999998685
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 39.75,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 411.375
+      }
+    },
+    {
+      "Bounds": [
+        203.65499877929688, 367.45799255371094, 358.3701477050781,
+        378.3699951171875
+      ],
+      "ClipBounds": [
+        203.65499877929688, 368.35504150390625, 356.19598388671875,
+        377.5540466308594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 132,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P/Sub/StyleSpan/Reference",
+      "Text": "Grundlagen Stich- und Schnittverletzungen ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 367.45799255371094, 358.3701477050781,
+        378.3699951171875
+      ],
+      "ClipBounds": [
+        203.65499877929688, 368.35504150390625, 356.19598388671875,
+        377.5540466308594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 572,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P/Sub",
+      "Text": "Siehe auch ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 356.46400451660156, 240.46400451660156,
+        367.9199981689453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 573,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P/Sub[2]",
+      "Text": "Sofortmassnahmen: ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 345.88600158691406, 437.6420593261719,
+        357.3419952392578
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 569,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P[2]",
+      "Text": "1. Waschen und Desinfizieren 2. Melden 3. Einleiten der Untersuchungen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [68.0, 317.41600036621094, 135.0560302734375, 339.447998046875],
+      "ObjectID": 547,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TH",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 285.36299999999756, 155.99399999999878,
+          338.75999999999476
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 53.375,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 93.125
+      }
+    },
+    {
+      "Bounds": [68.0, 317.41600036621094, 135.0560302734375, 339.447998046875],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 561,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TH/P",
+      "Text": "Respiratorische Standardhygiene ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 286.1020050048828, 562.7535095214844,
+        339.32000732421875
+      ],
+      "ClipBounds": [
+        161.39999389648438, 329.3050231933594, 279.6929931640625,
+        338.5040283203125
+      ],
+      "ObjectID": 548,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD",
+      "attributes": {
+        "BBox": [
+          155.99399999999878, 285.1229999999923, 567.3369999999995,
+          339.11999999999534
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 54,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 411.375
+      }
+    },
+    {
+      "Bounds": [
+        516.7960205078125, 289.12103271484375, 562.7535095214844,
+        337.12103271484375
+      ],
+      "ObjectID": 549,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/Figure",
+      "attributes": {
+        "BBox": [
+          516.8189999999886, 289.20299999999406, 562.7769999999728,
+          337.2009999999864
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 10.5
+      },
+      "filePaths": ["figures/fileoutpart3.png"]
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 328.4080047607422, 279.6929931640625,
+        339.32000732421875
+      ],
+      "ClipBounds": [
+        161.39999389648438, 329.3050231933594, 279.6929931640625,
+        338.5040283203125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 133,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/P/StyleSpan/Reference",
+      "Text": "Respiratorische Standardhygiene",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 328.4080047607422, 284.0970001220703,
+        339.32000732421875
+      ],
+      "ClipBounds": [
+        161.39999389648438, 329.3050231933594, 279.6929931640625,
+        338.5040283203125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 550,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/P",
+      "Text": ": ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 318.74200439453125, 165.05599975585938,
+        327.61399841308594
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 553,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/P[2]/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 286.1020050048828, 523.2511901855469,
+        328.74200439453125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 551,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/P[2]",
+      "Text": "Chirurgische Maske tragen bei respiratorischen Symptomen oder > 1 \u00bd Meter Abstand zu anderen Personen halten Einwegtaschentuch benutzen und sofort entsorgen oder in Ellenbeuge husten / niesen H\u00e4nde desinfizieren oder waschen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        67.05599975585938, 138.2469940185547, 78.51199340820312,
+        261.75022888183594
+      ],
+      "ObjectID": 496,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TH",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 112.20999999999913, 106.79599999999846,
+          285.36299999999756
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 173.125,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "RowSpan": 3,
+        "Width": 43.875
+      }
+    },
+    {
+      "Bounds": [
+        67.05599975585938, 138.2469940185547, 78.51199340820312,
+        261.75022888183594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 542,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TH/P",
+      "Rotation": 90.0,
+      "Text": "Kontakt mit K\u00f6rperfl\u00fcssigkeiten ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 242.8679962158203, 167.72805786132812,
+        285.92999267578125
+      ],
+      "ClipBounds": [
+        120.60000610351562, 275.9150390625, 165.52200317382812,
+        285.1140441894531
+      ],
+      "ObjectID": 497,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD",
+      "attributes": {
+        "BBox": [
+          106.43599999999788, 236.52499999999418, 165.47299999999814,
+          285.36299999999756
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 48.875,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 59
+      }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 275.92999267578125, 115.45600891113281,
+        284.802001953125
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 538,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/L/LI/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        120.60000610351562, 275.01800537109375, 167.72805786132812,
+        285.92999267578125
+      ],
+      "ClipBounds": [
+        120.60000610351562, 275.9150390625, 165.52200317382812,
+        285.1140441894531
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 537,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/L/LI/LBody/Reference",
+      "Text": "(<https://qm.insel.ch/hygieneordner/publikationsbereich/Freigegebene%20Dokumente/hyg-90.pdf>)Handschuhe ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        120.60000610351562, 264.44000244140625, 138.82400512695312,
+        275.3520050048828
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 513,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/P",
+      "Text": "oder ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 253.4459991455078, 143.4679412841797,
+        264.90199279785156
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 514,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/P[2]",
+      "Text": "Nach ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 242.8679962158203, 161.25999450683594,
+        254.32400512695312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 515,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/P[3]",
+      "Text": "Nach dem ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 254.7740020751953, 115.45600891113281,
+        263.64599609375
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 524,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/L[2]/LI/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 244.1959991455078, 115.45600891113281,
+        253.0679931640625
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 521,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/L[2]/LI[2]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        138.8350067138672, 240.41400146484375, 557.8016510009766,
+        286.05799865722656
+      ],
+      "ClipBounds": [
+        385.6300048828125, 275.9150390625, 495.90399169921875, 285.1140441894531
+      ],
+      "ObjectID": 498,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]",
+      "attributes": {
+        "BBox": [
+          138.83399999999529, 236.28499999999622, 567.3369999999995,
+          285.72299999999814
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 49.5,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 428.5
+      }
+    },
+    {
+      "Bounds": [
+        517.75, 240.41400146484375, 557.8016510009766, 277.16400146484375
+      ],
+      "ObjectID": 499,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]/Figure",
+      "attributes": {
+        "BBox": [
+          517.7789999999804, 240.48399999999674, 557.7369999999937,
+          277.20299999999406
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 10.5
+      },
+      "filePaths": ["figures/fileoutpart4.png"]
+    },
+    {
+      "Bounds": [
+        385.6300048828125, 275.01800537109375, 498.08514404296875,
+        285.92999267578125
+      ],
+      "ClipBounds": [
+        385.6300048828125, 275.9150390625, 495.90399169921875, 285.1140441894531
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 135,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]/P/Sub/StyleSpan/Reference",
+      "Text": "Kontakt mit K\u00f6rperfl\u00fcssigkeiten ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        138.8350067138672, 264.44000244140625, 498.08514404296875,
+        286.05799865722656
+      ],
+      "ClipBounds": [
+        385.6300048828125, 275.9150390625, 495.90399169921875, 285.1140441894531
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 502,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]/P/Sub",
+      "Text": "unmittelbar vor der Handlung mit potentiellem oder sicherem kontaminierten Gegenst\u00e4nden anziehen ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        143.48500061035156, 243.28399658203125, 479.71624755859375,
+        264.7740020751953
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 503,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]/P/Sub[2]",
+      "Text": "obgenannter Handlung und bei einer Indikation zur H\u00e4ndedesinfektion Handschuhe ausziehen Ausziehen der Handschuhe H\u00e4nde desinfizieren ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 205.96200561523438, 115.45600891113281,
+        235.99000549316406
+      ],
+      "ObjectID": 467,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD",
+      "attributes": {
+        "BBox": [
+          106.43599999999788, 193.0859999999957, 155.99399999999878,
+          236.52499999999418
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 43.5,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 49.5
+      }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 227.1179962158203, 115.45600891113281,
+        235.99000549316406
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 492,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/L/LI/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 216.5399932861328, 115.45600891113281,
+        225.41200256347656
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 489,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/L/LI[2]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 205.96200561523438, 115.45600891113281,
+        214.83399963378906
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 486,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/L/LI[3]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 195.92437744140625, 550.5499877929688,
+        237.1179962158203
+      ],
+      "ClipBounds": [
+        121.70001220703125, 227.10302734375, 426.73101806640625,
+        236.30203247070312
+      ],
+      "ObjectID": 468,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]",
+      "attributes": {
+        "BBox": [
+          106.43599999999788, 192.84599999999773, 567.3369999999995,
+          237.4849999999933
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "ColSpan": 2,
+        "Height": 44.625,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 460.875
+      }
+    },
+    {
+      "Bounds": [
+        520.5499877929688, 195.92437744140625, 550.5499877929688,
+        233.50201416015625
+      ],
+      "ObjectID": 469,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]/Figure",
+      "attributes": {
+        "BBox": [
+          520.5389999999898, 195.96599999999307, 550.5379999999714,
+          233.52499999999418
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 10.5
+      },
+      "filePaths": ["figures/fileoutpart5.png"]
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 226.20599365234375, 169.2600555419922,
+        237.1179962158203
+      ],
+      "ClipBounds": [
+        121.70001220703125, 227.10302734375, 167.052001953125,
+        236.30203247070312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 136,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]/P/StyleSpan/Reference",
+      "Text": "\u00dcbersch\u00fcrze ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        316.4570007324219, 226.20599365234375, 428.9121398925781,
+        237.1179962158203
+      ],
+      "ClipBounds": [
+        316.4570007324219, 227.10302734375, 426.73101806640625,
+        236.30203247070312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 137,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]/P/StyleSpan[2]/Reference",
+      "Text": "Kontakt mit K\u00f6rperfl\u00fcssigkeiten ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 204.63400268554688, 484.97279357910156,
+        237.1179962158203
+      ],
+      "ClipBounds": [
+        121.70001220703125, 227.10302734375, 426.73101806640625,
+        236.30203247070312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 470,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]/P",
+      "Text": "bei potentiellem oder sicherem massiven anziehen Einweg\u00fcbersch\u00fcrzen sind nach jedem Gebrauch zu verwerfen, Wechsel bei optischer Verschmutzung Vor und Nach dem Ausziehen der \u00dcbersch\u00fcrzen H\u00e4nde desinfizieren ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 118.79800415039062, 182.49099731445312,
+        193.593994140625
+      ],
+      "ClipBounds": [
+        111.80000305175781, 183.57904052734375, 182.49099731445312,
+        192.77804565429688
+      ],
+      "ObjectID": 398,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD",
+      "attributes": {
+        "BBox": [
+          106.43599999999788, 112.56999999999971, 174.11299999999756,
+          193.0859999999957
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 80.5,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 67.625
+      }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 182.6820068359375, 182.49099731445312,
+        193.593994140625
+      ],
+      "ClipBounds": [
+        111.80000305175781, 183.57904052734375, 182.49099731445312,
+        192.77804565429688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 138,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P/StyleSpan/Reference",
+      "Text": "Chirurgische ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 182.6820068359375, 182.49099731445312,
+        193.593994140625
+      ],
+      "ClipBounds": [
+        111.80000305175781, 183.57904052734375, 182.49099731445312,
+        192.77804565429688
+      ],
+      "Lang": "de",
+      "ObjectID": 415,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P",
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 172.10400390625, 159.8087921142578,
+        183.01600646972656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 416,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[2]",
+      "Text": "Spritzer oder ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 161.5260009765625, 176.3639373779297,
+        172.43800354003906
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 417,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[3]",
+      "Text": "Husten/Niesen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 150.947998046875, 159.9320526123047,
+        161.86000061035156
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 418,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[4]",
+      "Text": "Absaugen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 140.3699951171875, 160.8120574951172,
+        151.28199768066406
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 419,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[5]",
+      "Text": "Versorgen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 129.79200744628906, 153.2519989013672,
+        140.70399475097656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 420,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[6]",
+      "Text": "Invasive ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        121.69999694824219, 118.79800415039062, 152.82005310058594,
+        130.25399780273438
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 421,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P[7]",
+      "Text": "Vor und ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 162.43800354003906, 115.45600891113281,
+        171.30999755859375
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 442,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/L/LI/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 151.86000061035156, 115.45600891113281,
+        160.73199462890625
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 439,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/L/LI[2]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 141.28199768066406, 115.45600891113281,
+        150.1540069580078
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 436,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/L/LI[3]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 130.70399475097656, 115.45600891113281,
+        139.5760040283203
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 433,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/L/LI[4]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        111.80000305175781, 120.12600708007812, 115.45600891113281,
+        128.9980010986328
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 430,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/L/LI[5]/Lbl/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        152.8300018310547, 113.42901611328125, 557.1000061035156,
+        193.593994140625
+      ],
+      "ClipBounds": [
+        363.47900390625, 183.57904052734375, 404.83099365234375,
+        192.77804565429688
+      ],
+      "ObjectID": 399,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]",
+      "attributes": {
+        "BBox": [
+          152.87399999999616, 112.32999999999811, 567.3369999999995,
+          193.44599999999627
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.25, 0, 0],
+        "ColIndex": 2,
+        "Height": 81.125,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 414.5
+      }
+    },
+    {
+      "Bounds": [
+        481.9830017089844, 113.42901611328125, 557.1000061035156,
+        180.79803466796875
+      ],
+      "ObjectID": 400,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]/Figure",
+      "attributes": {
+        "BBox": [
+          482.0199999999895, 113.40999999999985, 557.0169999999925,
+          180.8469999999943
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 10.5
+      },
+      "filePaths": ["figures/fileoutpart6.png"]
+    },
+    {
+      "Bounds": [
+        363.47900390625, 182.6820068359375, 407.02294921875, 193.593994140625
+      ],
+      "ClipBounds": [
+        363.47900390625, 183.57904052734375, 404.83099365234375,
+        192.77804565429688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 139,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]/P/StyleSpan/Reference",
+      "Text": "Schutzbrille ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        158.9290008544922, 140.3699951171875, 545.7908020019531,
+        193.593994140625
+      ],
+      "ClipBounds": [
+        363.47900390625, 183.57904052734375, 404.83099365234375,
+        192.77804565429688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 401,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]/P",
+      "Text": "Maske (gem\u00e4ss geltender Maskentragepflicht) und / oder bei Exposition der Schleimh\u00e4ute durch Tr\u00f6pfchen von K\u00f6rperfl\u00fcssigkeiten: bei Patientinnen / Patienten von resp. Sekret, Intubation, Extubation Durchf\u00fchrung von nasopharyngealen Abstriche von Traumapatientinnen / -patienten ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        153.27099609375, 129.79200744628906, 310.66705322265625,
+        140.70399475097656
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 404,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]/P[2]/Sub",
+      "Text": "Eingriffe, Geburten, Gastro- und Koloskopie ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        152.8300018310547, 118.79800415039062, 417.39085388183594,
+        130.25399780273438
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 405,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]/P[2]/Sub[2]",
+      "Text": "Nach dem Ausziehen der Maske und der Schutzbrille H\u00e4nde desinfizieren ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [68.0, 80.5679931640625, 135.087158203125, 113.17599487304688],
+      "ObjectID": 683,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TH",
+      "attributes": {
+        "BBox": [
+          62.8773999999994, 58.811899999998786, 155.99399999999878,
+          112.56999999999971
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 2,
+        "Height": 53.75,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 93.125
+      }
+    },
+    {
+      "Bounds": [68.0, 80.5679931640625, 135.087158203125, 113.17599487304688],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 684,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TH/P",
+      "Text": "Aufbereitung, Desinfektion und Reinigung ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 80.98199462890625, 563.8023986816406,
+        113.04800415039062
+      ],
+      "ClipBounds": [
+        203.65499877929688, 103.03305053710938, 489.61798095703125,
+        112.2320556640625
+      ],
+      "ObjectID": 384,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD",
+      "attributes": {
+        "BBox": [
+          155.99399999999878, 58.21189999999842, 567.3369999999995,
+          112.92999999999665
+        ],
+        "BlockAlign": "Before",
+        "BorderColor": [[0, 0, 0], [0, 0, 0], null, null],
+        "BorderStyle": ["Double", "Double", "None", "None"],
+        "BorderThickness": [0.25, 0.625, 0, 0],
+        "ColIndex": 2,
+        "Height": 54.75,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 411.375
+      }
+    },
+    {
+      "Bounds": [
+        203.65499877929688, 102.13600158691406, 295.23899841308594,
+        113.04800415039062
+      ],
+      "ClipBounds": [
+        203.65499877929688, 103.03305053710938, 293.05401611328125,
+        112.2320556640625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 140,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P/StyleSpan/Reference",
+      "Text": "Grundlagen Aufbereitung ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        310.8479919433594, 102.13600158691406, 491.82073974609375,
+        113.04800415039062
+      ],
+      "ClipBounds": [
+        310.8479919433594, 103.03305053710938, 489.61798095703125,
+        112.2320556640625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 141,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P/StyleSpan[2]/Reference",
+      "Text": "Merkblatt Reinigung und Desinfektion von Fl\u00e4chen ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 102.13600158691406, 491.82073974609375,
+        113.04800415039062
+      ],
+      "ClipBounds": [
+        203.65499877929688, 103.03305053710938, 489.61798095703125,
+        112.2320556640625
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 382,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P",
+      "Text": "Siehe auch und ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 92.47000122070312, 165.05599975585938,
+        101.34199523925781
+      ],
+      "Font": {
+        "alt_family_name": "Wingdings",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Wingdings",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABH+Wingdings-Regular",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 691,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P[2]/ExtraCharSpan",
+      "Text": "\uf0a7 ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        161.39999389648438, 80.98199462890625, 563.8023986816406,
+        102.47000122070312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 689,
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P[2]",
+      "Text": "Bei Kontamination mit K\u00f6rperfl\u00fcssigkeiten ist die betroffene Stelle (Boden, Tisch, Bettgestell, usw.) mit einem Papierhandtuch grob zu reinigen und sofort eine gezielte Desinfektion durchzuf\u00fchren ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        113.7239990234375, 706.8379974365234, 511.1976623535156,
+        724.0220031738281
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 200,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/H1",
+      "Text": "Isolationsmassnahmen zus\u00e4tzlich zu den Standardhygienemassnahmen ",
+      "TextSize": 12.0,
+      "attributes": { "LineHeight": 14.375, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [
+        37.05000305175781, 58.60099792480469, 578.9500274658203,
+        701.7380218505859
+      ],
+      "ClipBounds": [
+        37.05000305175781, 58.60099792480469, 578.9500274658203,
+        701.7380218505859
+      ],
+      "ObjectID": 201,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure",
+      "attributes": {
+        "BBox": [
+          38.7583999999988, 59.65189999999893, 577.7759999999835,
+          701.6259999999893
+        ],
+        "Placement": "Block"
+      },
+      "filePaths": ["figures/fileoutpart7.png"]
+    },
+    {
+      "Bounds": [
+        102.66900634765625, 517.3139953613281, 113.78199768066406,
+        528.7700042724609
+      ],
+      "ClipBounds": [
+        102.66900634765625, 517.3139953613281, 113.78199768066406,
+        528.7700042724609
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 142,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference",
+      "Text": "Er-",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [45.75, 506.7359924316406, 83.9580078125, 518.1920013427734],
+      "ClipBounds": [
+        45.75, 506.7359924316406, 83.9580078125, 518.1920013427734
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 143,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[2]",
+      "Text": "regerliste ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        131.0500030517578, 532.4450073242188, 224.41400146484375,
+        543.3569946289062
+      ],
+      "ClipBounds": [
+        131.0500030517578, 532.4450073242188, 224.41400146484375,
+        543.3569946289062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 144,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[3]",
+      "Text": "Merkblatt Multiresistente / ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        131.0500030517578, 523.2460021972656, 217.32400512695312,
+        534.1580047607422
+      ],
+      "ClipBounds": [
+        131.0500030517578, 523.2460021972656, 217.32400512695312,
+        534.1580047607422
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 145,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[4]",
+      "Text": "panresistente Bakterien ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        131.0500030517578, 514.0469970703125, 187.50914001464844,
+        524.9589996337891
+      ],
+      "ClipBounds": [
+        131.0500030517578, 514.0469970703125, 187.50914001464844,
+        524.9589996337891
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 146,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[5]",
+      "Text": "und Isolationen ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        244.0500030517578, 523.2460021972656, 293.8108215332031,
+        534.1580047607422
+      ],
+      "ClipBounds": [
+        244.0500030517578, 523.2460021972656, 293.8108215332031,
+        534.1580047607422
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 147,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[6]",
+      "Text": "Merkblatt TIP ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        350.79998779296875, 541.6439971923828, 385.8959503173828,
+        552.5559997558594
+      ],
+      "ClipBounds": [
+        350.79998779296875, 541.6439971923828, 385.8959503173828,
+        552.5559997558594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 148,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[7]",
+      "Text": "Merkblatt ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        478.3500061035156, 528.3079986572266, 562.843017578125,
+        539.2200012207031
+      ],
+      "ClipBounds": [
+        478.3500061035156, 528.3079986572266, 562.843017578125,
+        539.2200012207031
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 149,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[8]",
+      "Text": "Grundlagen Tr\u00f6pfcheni-",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        478.3500061035156, 517.7299957275391, 508.1260070800781,
+        528.6419982910156
+      ],
+      "ClipBounds": [
+        478.3500061035156, 517.7299957275391, 508.1260070800781,
+        528.6419982910156
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 150,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[9]",
+      "Text": "solation ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        45.75, 399.5469970703125, 108.3499755859375, 411.0030059814453
+      ],
+      "ClipBounds": [
+        45.75, 399.5469970703125, 108.3499755859375, 411.0030059814453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 151,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure/Reference[10]",
+      "Text": "Isolationsschild ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        37.05000305175781, 58.60099792480469, 578.9500274658203,
+        701.7380218505859
+      ],
+      "ClipBounds": [
+        37.05000305175781, 58.60099792480469, 578.9500274658203,
+        701.7380218505859
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 201,
+      "Page": 1,
+      "Path": "//Document/Sect[2]/Figure",
+      "Text": "\u00dcbertragungsweg Kontakt Luft und Kontakt Luft und Kontakt Luft Beispiele f\u00fcr die \u00dcbertragung \u00dcbertragung durch direkten / indirekten Kontakt (z.B. H\u00e4nde, Oberfl\u00e4chen) \u00dcbertragung durch respiratorische Tr\u00f6pfchen \u00dcbertragung durch respiratori-sche Aerosole und Tr\u00f6pfchen \u00dcbertragung durch respiratorische Tr\u00f6pfchen Beispiele von In-fektionserregern oder \u2013krankheiten Liste nicht absch-liessend siehe Multiresistente Keime (MRSA, VRE, usw.), infekti\u00f6ser Durchfall Patientinnen / Patienten mit akut respiratorischen Sym-ptomen (ohne Covid-19) Covid-19 Infektion (immer im EZ oder Kohortierung) siehe Tr\u00f6pfchenisolation PLUS Mumps, R\u00f6teln, Pertus-sis, Meningokokken-Me-ningitis Isolation am Platz, kein Ein-zelzimmer notwendig Isolation im Einzelzimmer oder Kohortierung m\u00f6glich Wichtigste Massnahmen zus\u00e4tzlich zu den Standardhygiene-massnahmen Einweg\u00fcbersch\u00fcrze falls enger physischer Kontakt FFP2 Maske bei Pati-entinnen / Patienten mit konkretem Ver-dacht auf COVID-19 Bei naher (<1 \u00bd Meter) oder langer (>15 Min) Be-treuung: FFP2 Maske bei Patientinnen / Patienten mit COVID-19 Infektion. Basisschutz ",
+      "TextSize": 8.0,
+      "attributes": {
+        "BBox": [
+          38.7583999999988, 59.65189999999893, 577.7759999999835,
+          701.6259999999893
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.75, 107.08599853515625, 564.2409515380859, 722.2560272216797
+      ],
+      "ClipBounds": [
+        45.75, 410.39599609375, 545.5970458984375, 553.8200073242188
+      ],
+      "ObjectID": 198,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table",
+      "attributes": {
+        "BBox": [
+          38.51839999999902, 333.24099999999453, 392.62399999999616,
+          722.3849999999802
+        ],
+        "NumCol": 4,
+        "NumRow": 6,
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["tables/fileoutpart8.xlsx", "tables/fileoutpart9.png"]
+    },
+    {
+      "ObjectID": 332,
+      "Path": "//Document/Sect[2]/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          38.27839999999924, 674.7469999999739, 123.83499999999913,
+          722.3849999999802
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 47.625,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 85.375
+      }
+    },
+    {
+      "ObjectID": 333,
+      "Path": "//Document/Sect[2]/Table/TR/TH[2]",
+      "attributes": {
+        "BBox": [
+          123.83499999999913, 674.7469999999739, 251.38999999999942,
+          722.3849999999802
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 47.625,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 127.375
+      }
+    },
+    {
+      "Bounds": [
+        251.39999389648438, 675.8060302734375, 392.0, 721.3060302734375
+      ],
+      "ObjectID": 334,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR/TH[3]",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 674.7469999999739, 392.62399999999616,
+          722.3849999999802
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 47.625,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 141.25
+      }
+    },
+    {
+      "Bounds": [
+        251.39999389648438, 675.8060302734375, 392.0, 721.3060302734375
+      ],
+      "ObjectID": 341,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR/TH[3]/Figure",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 675.8269999999902, 392.02399999999034,
+          721.304999999993
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart10.png"]
+    },
+    {
+      "Bounds": [
+        393.45001220703125, 674.7060241699219, 478.45001220703125,
+        722.2560272216797
+      ],
+      "ObjectID": 335,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR/TH[4]",
+      "attributes": {
+        "BBox": [
+          392.62399999999616, 674.7469999999739, 563.6169999999984,
+          722.3849999999802
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 47.625,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 171
+      }
+    },
+    {
+      "Bounds": [
+        393.45001220703125, 674.7060241699219, 478.45001220703125,
+        722.2560272216797
+      ],
+      "ObjectID": 336,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR/TH[4]/Figure",
+      "attributes": {
+        "BBox": [
+          393.46399999999267, 674.7469999999739, 478.42099999998754,
+          722.2649999999849
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart11.png"]
+    },
+    {
+      "Bounds": [45.75, 658.0579986572266, 115.91796875, 669.5140075683594],
+      "ObjectID": 306,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH",
+      "attributes": {
+        "BBox": [
+          38.51839999999902, 651.8279999999795, 123.83499999999913,
+          674.7469999999739
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 22.875,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 85.375
+      }
+    },
+    {
+      "Bounds": [45.75, 658.0579986572266, 115.91796875, 669.5140075683594],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 325,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH/P",
+      "Text": "\u00dcbertragungsweg ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        180.97799682617188, 658.4739990234375, 196.52194213867188,
+        669.3860015869141
+      ],
+      "ObjectID": 307,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH[2]",
+      "attributes": {
+        "BBox": [
+          123.83499999999913, 651.8279999999795, 251.38999999999942,
+          674.7469999999739
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 22.875,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "Width": 127.375
+      }
+    },
+    {
+      "Bounds": [
+        180.97799682617188, 658.4739990234375, 196.52194213867188,
+        669.3860015869141
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 320,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH[2]/P",
+      "Text": "Luft ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        315.4029998779297, 658.4739990234375, 330.9469451904297,
+        669.3860015869141
+      ],
+      "ObjectID": 308,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH[3]",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 651.8279999999795, 392.62399999999616,
+          674.7469999999739
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 22.875,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "Width": 141.25
+      }
+    },
+    {
+      "Bounds": [
+        315.4029998779297, 658.4739990234375, 330.9469451904297,
+        669.3860015869141
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 315,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH[3]/P",
+      "Text": "Luft ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        448.8659973144531, 658.4739990234375, 509.33314514160156,
+        669.3860015869141
+      ],
+      "ObjectID": 309,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH[4]",
+      "attributes": {
+        "BBox": [
+          392.62399999999616, 651.8279999999795, 563.6169999999984,
+          674.7469999999739
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 22.875,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "Width": 171
+      }
+    },
+    {
+      "Bounds": [
+        448.8659973144531, 658.4739990234375, 509.33314514160156,
+        669.3860015869141
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 310,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[2]/TH[4]/P",
+      "Text": "Kontakt und Luft ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        45.75, 616.2460021972656, 109.74920654296875, 638.2779998779297
+      ],
+      "ObjectID": 281,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TH",
+      "attributes": {
+        "BBox": [
+          38.51839999999902, 601.6699999999837, 123.83499999999913,
+          651.8279999999795
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 50.125,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 85.375
+      }
+    },
+    {
+      "Bounds": [
+        45.75, 616.2460021972656, 109.74920654296875, 638.2779998779297
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 301,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TH/P",
+      "Text": "Beispiele f\u00fcr die \u00dcbertragung ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        134.06900024414062, 616.6600036621094, 241.2159423828125,
+        636.77099609375
+      ],
+      "ObjectID": 282,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          123.83499999999913, 601.6699999999837, 251.38999999999942,
+          651.8279999999795
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 50.125,
+        "InlineAlign": "Center",
+        "RowIndex": 2,
+        "Width": 127.375
+      }
+    },
+    {
+      "Bounds": [
+        134.06900024414062, 616.6600036621094, 241.2159423828125,
+        636.77099609375
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 295,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD/P",
+      "Text": "\u00dcbertragung durch respiratorische Aerosole in der Luft ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.125, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [
+        261.3769989013672, 616.6620025634766, 384.9721374511719,
+        638.1499938964844
+      ],
+      "ObjectID": 283,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 601.6699999999837, 392.62399999999616,
+          651.8279999999795
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 50.125,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 141.25
+      }
+    },
+    {
+      "Bounds": [
+        261.3769989013672, 616.6620025634766, 384.9721374511719,
+        638.1499938964844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 290,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[2]/P",
+      "Text": "\u00dcbertragung durch respiratorische Aerosole in der Luft ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [
+        393.9490051269531, 616.6620025634766, 564.2409515380859,
+        638.1499938964844
+      ],
+      "ObjectID": 284,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[3]",
+      "attributes": {
+        "BBox": [
+          392.62399999999616, 601.6699999999837, 563.6169999999984,
+          651.8279999999795
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 50.125,
+        "InlineAlign": "Center",
+        "RowIndex": 2,
+        "Width": 171
+      }
+    },
+    {
+      "Bounds": [
+        393.9490051269531, 616.6620025634766, 564.2409515380859,
+        638.1499938964844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 285,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[3]/TD[3]/P",
+      "Text": "\u00dcbertragung durch direkten / indirekten Kontakt und / oder respiratorische Tr\u00f6pfchen ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [45.75, 517.2790069580078, 116.84521484375, 581.2089996337891],
+      "ClipBounds": [
+        45.75, 518.176025390625, 116.45001220703125, 537.9530029296875
+      ],
+      "ObjectID": 239,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TH",
+      "attributes": {
+        "BBox": [
+          38.51839999999902, 495.3539999999921, 123.83499999999913,
+          601.6699999999837
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 106.375,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 85.375
+      }
+    },
+    {
+      "Bounds": [45.75, 548.5989990234375, 116.84521484375, 581.2089996337891],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 271,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TH/P",
+      "Text": "Beispiele von Infektionserregern oder \u2013krankheiten ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5 }
+    },
+    {
+      "Bounds": [
+        98.67300415039062, 527.8569946289062, 116.45001220703125,
+        538.7689971923828
+      ],
+      "ClipBounds": [
+        98.67300415039062, 528.7540283203125, 116.45001220703125,
+        537.9530029296875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 152,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TH/P[2]/StyleSpan/Reference",
+      "Text": "Erre-",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [45.75, 517.2790069580078, 73.741943359375, 528.1909942626953],
+      "ClipBounds": [45.75, 518.176025390625, 71.53900146484375, 527.375],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 153,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TH/P[2]/StyleSpan/Reference[2]",
+      "Text": "gerliste ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        45.75, 517.2790069580078, 116.45001220703125, 549.3470001220703
+      ],
+      "ClipBounds": [
+        45.75, 518.176025390625, 116.45001220703125, 537.9530029296875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 272,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TH/P[2]",
+      "Text": "Liste nicht absch-liessend siehe ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.625 }
+    },
+    {
+      "Bounds": [
+        133.39700317382812, 522.5679931640625, 241.90301513671875,
+        575.7920074462891
+      ],
+      "ClipBounds": [
+        133.39700317382812, 523.4650268554688, 241.90301513671875,
+        553.8200073242188
+      ],
+      "ObjectID": 240,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          123.83499999999913, 495.3539999999921, 251.38999999999942,
+          601.6699999999837
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 106.375,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "Width": 127.375
+      }
+    },
+    {
+      "Bounds": [
+        135.8470001220703, 554.3040008544922, 241.64535522460938,
+        575.7920074462891
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 262,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD/P",
+      "Text": "z.B. Masern, Varizellen, generalisierter Herpes Zoster ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [
+        137.39500427246094, 543.7239990234375, 240.1269989013672,
+        554.6360015869141
+      ],
+      "ClipBounds": [
+        137.39500427246094, 544.6210327148438, 240.1269989013672,
+        553.8200073242188
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 154,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD/P[2]/StyleSpan/Reference",
+      "Text": "Grundlagen Aerosolisolation ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        133.39700317382812, 533.14599609375, 241.90301513671875,
+        544.0579986572266
+      ],
+      "ClipBounds": [
+        133.39700317382812, 534.0430297851562, 241.90301513671875,
+        543.2420043945312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 155,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD/P[2]/StyleSpan/Reference[2]",
+      "Text": "bei Varizellen, Masern und ge-",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        138.3000030517578, 522.5679931640625, 239.199951171875,
+        533.4799957275391
+      ],
+      "ClipBounds": [
+        138.3000030517578, 523.4650268554688, 237.0, 532.6640014648438
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 156,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD/P[2]/StyleSpan/Reference[3]",
+      "Text": "neralisiertem Herpes Zoster ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        265.1490020751953, 533.14599609375, 381.19384765625, 565.2140045166016
+      ],
+      "ClipBounds": [
+        273.0, 534.0430297851562, 375.73199462890625, 553.8200073242188
+      ],
+      "ObjectID": 241,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 495.3539999999921, 392.62399999999616,
+          601.6699999999837
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 106.375,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 141.25
+      }
+    },
+    {
+      "Bounds": [
+        265.1490020751953, 554.302001953125, 381.19384765625, 565.2140045166016
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 253,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P",
+      "Text": "z.B. offene Lungen-Tuberkulose ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        273.0, 543.7239990234375, 375.73199462890625, 554.6360015869141
+      ],
+      "ClipBounds": [
+        273.0, 544.6210327148438, 375.73199462890625, 553.8200073242188
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 157,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P[2]/StyleSpan/Reference",
+      "Text": "Grundlagen Aerosolisolation ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [273.0, 533.14599609375, 332.1231994628906, 544.0579986572266],
+      "ClipBounds": [
+        273.0, 534.0430297851562, 329.9219970703125, 543.2420043945312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 158,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[2]/P[2]/StyleSpan/Reference[2]",
+      "Text": "bei Tuberkulose ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        402.85499572753906, 527.8569946289062, 553.1159362792969,
+        570.5030059814453
+      ],
+      "ClipBounds": [
+        410.40301513671875, 528.7540283203125, 545.5970458984375,
+        537.9530029296875
+      ],
+      "ObjectID": 242,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[3]",
+      "attributes": {
+        "BBox": [
+          392.62399999999616, 495.3539999999921, 563.6169999999984,
+          601.6699999999837
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 106.375,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "Width": 171
+      }
+    },
+    {
+      "Bounds": [
+        402.85499572753906, 538.4369964599609, 553.1159362792969,
+        570.5030059814453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 243,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[3]/P",
+      "Text": "Schutz von immunsupprimierten Patientinnen und Patienten gegen\u00fcber Exposition mit Infektionserregern ",
+      "TextSize": 8.0,
+      "attributes": { "LineHeight": 10.5, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [
+        410.4029998779297, 527.8569946289062, 547.8053436279297,
+        538.7689971923828
+      ],
+      "ClipBounds": [
+        410.40301513671875, 528.7540283203125, 545.5970458984375,
+        537.9530029296875
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "ObjectID": 159,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[3]/P[2]/StyleSpan/Reference",
+      "Text": "Grundlagen Protektivisolation A und B ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        410.4029998779297, 527.8569946289062, 547.8053436279297,
+        538.7689971923828
+      ],
+      "ClipBounds": [
+        410.40301513671875, 528.7540283203125, 545.5970458984375,
+        537.9530029296875
+      ],
+      "Lang": "de",
+      "ObjectID": 244,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[4]/TD[3]/P[2]",
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        45.75, 409.08299255371094, 108.3499755859375, 420.53900146484375
+      ],
+      "ClipBounds": [
+        45.75, 410.39599609375, 106.20700073242188, 419.5950012207031
+      ],
+      "ObjectID": 196,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TH",
+      "attributes": {
+        "BBox": [
+          38.51839999999902, 333.24099999999453, 123.83499999999913,
+          495.3539999999921
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 162.125,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 85.375
+      }
+    },
+    {
+      "Bounds": [
+        45.75, 409.08299255371094, 108.3499755859375, 420.53900146484375
+      ],
+      "ClipBounds": [
+        45.75, 410.39599609375, 106.20700073242188, 419.5950012207031
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 160,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TH/P/StyleSpan/Reference",
+      "Text": "Isolationsschild ",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        45.75, 409.08299255371094, 108.3499755859375, 420.53900146484375
+      ],
+      "ClipBounds": [
+        45.75, 410.39599609375, 106.20700073242188, 419.5950012207031
+      ],
+      "Lang": "en",
+      "ObjectID": 194,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TH/P",
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        133.3000030517578, 339.3810119628906, 236.9499969482422,
+        484.73101806640625
+      ],
+      "ObjectID": 355,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD",
+      "attributes": {
+        "BBox": [
+          123.83499999999913, 333.24099999999453, 251.38999999999942,
+          495.3539999999921
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 162.125,
+        "InlineAlign": "Center",
+        "RowIndex": 4,
+        "Width": 127.375
+      }
+    },
+    {
+      "Bounds": [
+        133.3000030517578, 339.3810119628906, 236.9499969482422,
+        484.73101806640625
+      ],
+      "ObjectID": 370,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD/Figure",
+      "attributes": {
+        "BBox": [
+          133.31499999999505, 339.35999999998603, 236.98999999999796,
+          484.79499999999825
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart12.png"]
+    },
+    {
+      "Bounds": [
+        271.75, 341.4810333251953, 371.5500030517578, 482.1810302734375
+      ],
+      "ObjectID": 356,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD[2]",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 333.24099999999453, 392.62399999999616,
+          495.3539999999921
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 162.125,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 141.25
+      }
+    },
+    {
+      "Bounds": [
+        271.75, 341.4810333251953, 371.5500030517578, 482.1810302734375
+      ],
+      "ObjectID": 365,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD[2]/Figure",
+      "attributes": {
+        "BBox": [
+          271.78899999998976, 341.5199999999895, 371.5049999999901,
+          482.15499999999884
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart13.png"]
+    },
+    {
+      "Bounds": [
+        392.75, 358.77500915527344, 552.9499969482422, 447.07501220703125
+      ],
+      "ObjectID": 357,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD[3]",
+      "attributes": {
+        "BBox": [
+          392.62399999999616, 333.24099999999453, 563.6169999999984,
+          495.3539999999921
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 162.125,
+        "InlineAlign": "Center",
+        "RowIndex": 4,
+        "Width": 171
+      }
+    },
+    {
+      "Bounds": [
+        392.75, 358.77500915527344, 552.9499969482422, 447.07501220703125
+      ],
+      "ObjectID": 358,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD[3]/Figure",
+      "attributes": {
+        "BBox": [
+          392.7439999999915, 358.79999999998836, 552.9369999999763,
+          447.11599999999453
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart14.png"]
+    },
+    {
+      "Bounds": [
+        457.8560028076172, 382.10400390625, 484.16278076171875,
+        397.1080017089844
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial MT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAAAI+ArialMT",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "de",
+      "ObjectID": 359,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[5]/TD[3]/P",
+      "Text": "oder ",
+      "TextSize": 11.0,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        45.75, 190.58399963378906, 113.2540283203125, 244.35000610351562
+      ],
+      "ObjectID": 210,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TH",
+      "attributes": {
+        "BBox": [
+          38.51839999999902, 100.32999999999811, 123.83499999999913,
+          333.24099999999453
+        ],
+        "BackgroundColor": [
+          0.5019679999999767, 0.5019679999999767, 0.5019679999999767
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 232.875,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 85.375
+      }
+    },
+    {
+      "Bounds": [
+        103.08500671386719, 222.3159942626953, 105.74894714355469,
+        233.77200317382812
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 235,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TH/P/Sub/HyphenSpan",
+      "Text": "-",
+      "TextSize": 8.0
+    },
+    {
+      "Bounds": [
+        45.75, 211.73800659179688, 111.08999633789062, 244.35000610351562
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 231,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TH/P/Sub",
+      "Text": "Wichtigste Mass-nahmen zus\u00e4tzlich zu den ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        45.75, 190.58399963378906, 113.2540283203125, 212.61599731445312
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "ObjectID": 232,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TH/P/Sub[2]",
+      "Text": "Standardhygiene-massnahmen ",
+      "TextSize": 8.0,
+      "attributes": { "Placement": "Block" }
+    },
+    {
+      "Bounds": [
+        147.14999389648438, 153.89501953125, 228.14999389648438,
+        326.656005859375
+      ],
+      "ObjectID": 211,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD",
+      "attributes": {
+        "BBox": [
+          123.83499999999913, 100.32999999999811, 251.38999999999942,
+          333.24099999999453
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 232.875,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "Width": 127.375
+      }
+    },
+    {
+      "Bounds": [
+        147.14999389648438, 153.89501953125, 228.14999389648438,
+        326.656005859375
+      ],
+      "ObjectID": 224,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD/Figure",
+      "attributes": {
+        "BBox": [
+          147.11399999999412, 153.96799999999348, 228.11099999999715,
+          326.6409999999887
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart15.png"]
+    },
+    {
+      "Bounds": [
+        286.5, 107.08599853515625, 377.70001220703125, 323.88604736328125
+      ],
+      "ObjectID": 212,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]",
+      "attributes": {
+        "BBox": [
+          251.38999999999942, 100.32999999999811, 392.62399999999616,
+          333.24099999999453
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 232.875,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 141.25
+      }
+    },
+    {
+      "Bounds": [
+        286.5, 107.08599853515625, 377.70001220703125, 323.88604736328125
+      ],
+      "ObjectID": 219,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[2]/Figure",
+      "attributes": {
+        "BBox": [
+          286.4279999999999, 107.16999999999825, 377.625, 323.88099999999395
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart16.png"]
+    },
+    {
+      "Bounds": [
+        422.20001220703125, 204.7860107421875, 519.9000244140625,
+        322.93603515625
+      ],
+      "ObjectID": 213,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[3]",
+      "attributes": {
+        "BBox": [
+          392.62399999999616, 100.32999999999811, 563.6169999999984,
+          333.24099999999453
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 232.875,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "Width": 171
+      }
+    },
+    {
+      "Bounds": [
+        422.20001220703125, 204.7860107421875, 519.9000244140625,
+        322.93603515625
+      ],
+      "ObjectID": 214,
+      "Page": 2,
+      "Path": "//Document/Sect[2]/Table/TR[6]/TD[3]/Figure",
+      "attributes": {
+        "BBox": [
+          422.1429999999964, 204.84599999999773, 519.8189999999886,
+          322.92099999998754
+        ],
+        "Placement": "Block",
+        "SpaceAfter": 18
+      },
+      "filePaths": ["figures/fileoutpart17.png"]
+    },
+    {
+      "Bounds": [
+        196.91900634765625, 696.3260040283203, 430.24501037597656,
+        724.9660034179688
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 171,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/H1",
+      "Text": "Das Wichtigste in K\u00fcrze ",
+      "TextSize": 20.0,
+      "attributes": {
+        "LineHeight": 24,
+        "SpaceAfter": 18,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        62.350006103515625, 485.00901794433594, 564.0, 684.1590270996094
+      ],
+      "ObjectID": 172,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/Figure",
+      "attributes": {
+        "BBox": [
+          62.39749999999913, 485.03499999998894, 563.9769999999844,
+          684.1059999999998
+        ],
+        "Placement": "Block"
+      },
+      "filePaths": ["figures/fileoutpart18.png"]
+    },
+    {
+      "Bounds": [
+        121.77400207519531, 426.95399475097656, 503.1220245361328,
+        444.13800048828125
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 173,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P",
+      "Text": "Die Spitalhygiene der Insel Gruppe ist telefonisch erreichbar unter ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 13.5,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        272.45799255371094, 399.0899963378906, 352.51849365234375,
+        416.2740020751953
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 174,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[2]",
+      "Text": "031 632 66 99 ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 13.5,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        208.12600708007812, 371.2259979248047, 416.81080627441406,
+        388.4100036621094
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 175,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[3]",
+      "Text": "von Montag \u2013 Freitag 08h00 \u2013 16h30 ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        124.43800354003906, 315.4859924316406, 500.4244384765625,
+        332.6699981689453
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 176,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[4]",
+      "Text": "ausserhalb dieser Zeiten in dringenden F\u00e4llen via Telefonzentrale ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 13.5,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        109.08999633789062, 287.6219940185547, 515.8287353515625,
+        304.8059997558594
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 177,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[5]",
+      "Text": "031 632 21 11 (Inselgruppe und extern) / Telefon 111 (Inselspital intern) ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 13.5,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        183.45399475097656, 259.75799560546875, 441.40834045410156,
+        276.94200134277344
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 178,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[6]",
+      "Text": "mit Dienstarzt Infektiologie verbinden lassen ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        273.6219940185547, 204.01800537109375, 409.88194274902344,
+        221.20199584960938
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 161,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[7]/StyleSpan/Reference",
+      "Text": "spitalhygiene@insel.ch ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        214.94200134277344, 204.01800537109375, 409.88194274902344,
+        221.20199584960938
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 179,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[7]",
+      "Text": "oder \u00fcber ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Center"
+      }
+    },
+    {
+      "Bounds": [
+        411.4969940185547, 120.406005859375, 458.78892517089844,
+        137.58999633789062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "ObjectID": 162,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[8]/StyleSpan/Reference",
+      "Text": "Intranet ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        166.14500427246094, 120.406005859375, 458.78892517089844,
+        137.58999633789062
+      ],
+      "Font": {
+        "alt_family_name": "Arial",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Arial",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "FAAABB+Arial-BoldMT",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "de",
+      "ObjectID": 168,
+      "Page": 3,
+      "Path": "//Document/Sect[3]/P[8]",
+      "Text": "Alle wichtigen Informationen finden Sie im ",
+      "TextSize": 12.0,
+      "attributes": {
+        "LineHeight": 14.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Center"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625],
+        "MediaBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625]
+      },
+      "height": 841.9000244140625,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 595.2999877929688
+    },
+    {
+      "boxes": {
+        "CropBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625],
+        "MediaBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625]
+      },
+      "height": 841.9000244140625,
+      "is_scanned": false,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 595.2999877929688
+    },
+    {
+      "boxes": {
+        "CropBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625],
+        "MediaBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625]
+      },
+      "height": 841.9000244140625,
+      "is_scanned": false,
+      "page_number": 2,
+      "rotation": 0,
+      "width": 595.2999877929688
+    },
+    {
+      "boxes": {
+        "CropBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625],
+        "MediaBox": [0.0, 0.0, 595.2999877929688, 841.9000244140625]
+      },
+      "height": 841.9000244140625,
+      "is_scanned": false,
+      "page_number": 3,
+      "rotation": 0,
+      "width": 595.2999877929688
+    }
+  ]
+}

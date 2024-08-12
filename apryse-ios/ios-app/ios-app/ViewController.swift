@@ -25,13 +25,16 @@ class ViewController: UIViewController, PTReflowViewControllerDelegate {
 
         // Create a PTDocumentController
         let documentController = PTDocumentController()
+        
+        // Initialize reflow view controller with a PTPDFViewCtrl instance.
+        let reflowViewController = PTReflowViewController(pdfViewCtrl: documentController.pdfViewCtrl)
         // The PTDocumentController must be in a navigation controller before a document can be opened
-        let navigationController = UINavigationController(rootViewController: documentController)
+        let navigationController = UINavigationController(rootViewController: reflowViewController)
         navigationController.modalPresentationStyle = .fullScreen
         navigationController.navigationBar.isTranslucent = false
         navigationController.toolbar.isTranslucent = false
         // Open a file from URL.
-        let fileURL: URL = URL(string:"https://www.fess.ie/images/stories/ResourcesForTutors/Referencing_Handbook_files/DiagramsFiguresImagesTables_58-59.pdf")!
+        // let fileURL: URL = URL(string:"https://www.fess.ie/images/stories/ResourcesForTutors/Referencing_Handbook_files/DiagramsFiguresImagesTables_58-59.pdf")!
         documentController.openDocument(with: docToOpen)
         // Show navigation (and document) controller.
         self.present(navigationController, animated: true, completion: nil)
