@@ -23,7 +23,7 @@ export default defineConfig(({ mode }) => {
         typescript: true,
         eslint: {
           useFlatConfig: true,
-          lintCommand: "eslint -c .eslint.config.js ./src",
+          lintCommand: "eslint ./src",
         },
       }),
       eslintPlugin(),
