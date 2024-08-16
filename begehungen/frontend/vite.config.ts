@@ -26,7 +26,6 @@ export default defineConfig(({ mode }) => {
           lintCommand: "eslint -c .eslint.config.js ./src",
         },
       }),
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-call
       eslintPlugin(),
       // svgr options: https://react-svgr.com/docs/options/
       svgr({ svgrOptions: { icon: true } }),

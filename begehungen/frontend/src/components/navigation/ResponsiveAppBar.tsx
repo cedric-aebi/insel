@@ -23,7 +23,7 @@ import { useState, type MouseEvent, cloneElement, type ReactElement, type Change
 import logo from "../../assets/2019-Infektiologie-H-Neg.png"
 import { Link as RouterLink } from "react-router-dom"
 import NavigationDrawer from "./NavigationDrawer.tsx"
-import type { PageItem } from "../../@types/MenuItems.tsx"
+import type { PageItem } from "../../@types/menuItems.tsx"
 import { backgroundTheme } from "../../utils/themes.ts"
 
 const Search = styled("div")(({ theme }) => ({

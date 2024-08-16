@@ -1,4 +1,4 @@
-import type { Topic } from "../../@types/Observations.ts"
+import { Jobs, type Topic } from "../../@types/observations.ts"
 import { Typography } from "@mui/material"
 
 export const topics: Topic[] = [
@@ -43,6 +43,7 @@ export const topics: Topic[] = [
                 </Typography>
               </>
             ),
+            disabledFor: [Jobs.KAS, Jobs.LAGERUNGS_PFLEGE],
           },
           {
             title: (
@@ -52,6 +53,7 @@ export const topics: Topic[] = [
                 </Typography>
               </>
             ),
+            disabledFor: [Jobs.KAS, Jobs.LAGERUNGS_PFLEGE],
           },
           {
             title: (
@@ -61,6 +63,7 @@ export const topics: Topic[] = [
                 </Typography>
               </>
             ),
+            disabledFor: [Jobs.KAS, Jobs.LAGERUNGS_PFLEGE],
           },
         ],
       },

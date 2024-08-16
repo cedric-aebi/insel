@@ -15,6 +15,7 @@ export interface ChecklistItem {
   title: ReactNode
   link?: Link
   critical?: boolean
+  disabledFor?: Jobs[]
 }
 
 export interface Section {
@@ -34,4 +35,19 @@ export enum ObservationName {
   OPS_INTERVENTIONELL = "Ops Interventionell",
   AMBULANT = "Station Ambulant",
   INTERVENTIONELL = "Interventionell",
+}
+
+export enum Jobs {
+  KAS = "KAS",
+  OP_PFLEGE = "OP-Pflege",
+  CHIRURGISCHES_PERSONAL = "Chirurgisches Personal",
+  LAGERUNGS_PFLEGE = "Lagerungs-Pflege",
+  ANDERE = "Andere",
+}
+
+export const allJobs = [Jobs.KAS, Jobs.OP_PFLEGE, Jobs.CHIRURGISCHES_PERSONAL, Jobs.LAGERUNGS_PFLEGE, Jobs.ANDERE]
+
+export interface ObservationTab {
+  label: string
+  content: ReactNode
 }

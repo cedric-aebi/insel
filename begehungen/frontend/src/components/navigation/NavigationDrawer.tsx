@@ -1,5 +1,5 @@
 import { Box, Divider, Link, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Toolbar } from "@mui/material"
-import type { PageItem } from "../../@types/MenuItems.tsx"
+import type { PageItem } from "../../@types/menuItems.tsx"
 import { Link as RouterLink, useLocation, useNavigate } from "react-router-dom"
 import logo from "../../assets/2019-Infektiologie-H-Neg.png"
 

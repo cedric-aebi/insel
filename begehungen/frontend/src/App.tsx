@@ -1,4 +1,4 @@
-import type { PageItem } from "./@types/MenuItems.tsx"
+import type { PageItem } from "./@types/menuItems.tsx"
 import ObservationsPage from "./pages/observations/ObservationsPage.tsx"
 import { BarChart, FileDownload, Preview } from "@mui/icons-material"
 import NewObservationPage from "./pages/observations/NewObservationPage.tsx"
@@ -6,7 +6,7 @@ import AnalyzePage from "./pages/AnalyzePage.tsx"
 import ExportPage from "./pages/ExportPage.tsx"
 import { createBrowserRouter, createRoutesFromElements, Navigate, Route, RouterProvider } from "react-router-dom"
 import MainLayout from "./layout/MainLayout.tsx"
-import { ObservationName } from "./@types/Observations.ts"
+import { ObservationName } from "./@types/observations.ts"
 
 function App() {
   const pages: PageItem[] = [

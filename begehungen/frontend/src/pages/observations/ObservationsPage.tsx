@@ -1,6 +1,6 @@
 import { Grid, Typography } from "@mui/material"
 import ImageCard from "../../components/surfaces/ImageCard.tsx"
-import { ObservationName, type ObservationType } from "../../@types/Observations.ts"
+import { ObservationName, type ObservationType } from "../../@types/observations.ts"
 import OpInfraImage from "../../assets/op infrastruktur.jpg"
 import OPInterventionellImage from "../../assets/op interventionell.jpg"
 import AmbulantImage from "../../assets/ambulant.jpg"

@@ -1,6 +1,6 @@
 import { Divider, Link, Typography } from "@mui/material"
 import { Link as RouterLink } from "react-router-dom"
-import type { Link as LinkType } from "../../@types/Observations.ts"
+import type { Link as LinkType } from "../../@types/observations.ts"
 
 interface Props {
   title?: string

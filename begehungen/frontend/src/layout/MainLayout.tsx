@@ -2,7 +2,7 @@ import ResponsiveAppBar from "../components/navigation/ResponsiveAppBar.tsx"
 import { Outlet, useLocation } from "react-router-dom"
 import { Box, Breadcrumbs, Container, CssBaseline, Link, Typography } from "@mui/material"
 import HomeIcon from "@mui/icons-material/Home"
-import type { PageItem } from "../@types/MenuItems.tsx"
+import type { PageItem } from "../@types/menuItems.tsx"
 import { Link as RouterLink } from "react-router-dom"
 import { useEffect } from "react"
 

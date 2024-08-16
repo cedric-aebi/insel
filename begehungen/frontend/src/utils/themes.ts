@@ -11,6 +11,15 @@ export const mainTheme = createTheme({
     background: {
       default: "#f4f6f8",
     },
+    error: {
+      main: "#ea8698",
+    },
+    info: {
+      main: "#6ca5da",
+    },
+    warning: {
+      main: "#f8cf3b",
+    },
   },
 })
 
